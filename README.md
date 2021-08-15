@@ -6,7 +6,7 @@
 - ✔ Web Developer 
 - 📫 bnsiq2015@gmail.com
 
-<footer>Bruno Siqueira - Full-Stack Web Developer</footer>
+<footer style="text-aling:center">Bruno Siqueira - Full-Stack Web Developer</footer>
 
  
 
