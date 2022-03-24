@@ -11,10 +11,7 @@ Estudante Front End Developer;
 
 
 
-
--
-- 
--   📫 bnsiq2015@gmail.com
+   📫 bnsiq2015@gmail.com
 
 <footer>Bruno Siqueira - Full-Stack Web Developer</footer>
 
