@@ -1,7 +1,7 @@
 ## Brd3v - Brunão - Bruno
 
 
-Front End Developer;
+Estudante Front End Developer;
 
 
 *JAVASCRIPT
@@ -10,7 +10,6 @@ Front End Developer;
 
 
 
-![linux](https://user-images.githubusercontent.com/86988869/154995349-8442734d-07f9-41e5-9c34-d112e31738d2.png)
 
 
 -
