@@ -1,12 +1,12 @@
 ## Brd3v - Brunão - Bruno
 
 
-Estudante Front End Developer;
+GitHub stats](https://github-readme-stats.vercel.app/api?brd3v=anuraghazra&count_private=true)
 
 
 
 
-![javascript](https://user-images.githubusercontent.com/86988869/154994707-f71b4a1b-7f9a-48ca-bd38-6e3e60bfa052.png)
+
 
 
 
