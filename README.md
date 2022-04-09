@@ -1,7 +1,7 @@
 ## Brd3v - Brunão - Bruno
 
 
-GitHub stats](https://github-readme-stats.vercel.app/api?brd3v=anuraghazra&count_private=true)
+(https://github-readme-stats.vercel.app/api?brd3v=anuraghazra&count_private=true)
 
 
 
