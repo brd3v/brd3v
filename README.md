@@ -1,6 +1,8 @@
 ## Brd3v - Brunão - Bruno
 
 Olá meu no nome é Bruno e sou Desenvolvedor de Software,
+Sou programador e meu hobby é programar. 
+i'm Happy😀
 
 🥸 Pai
 🥷🏻 Ninja
