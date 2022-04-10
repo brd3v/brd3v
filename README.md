@@ -26,13 +26,12 @@ i'm Happy😀
 
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=TO-DO-LIST-EXPO-APP-MOBILE-IOS-ANDROID&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=javascript-projects&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=crossHair&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=CALCULATOR-REACT&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
 
 
