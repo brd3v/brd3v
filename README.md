@@ -26,10 +26,10 @@ i'm Happy😀
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=TO-DO-LIST-EXPO-APP-MOBILE-IOS-ANDROID&theme=radical)](https://github.com/brd3v/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=javascript-projects&theme=radical)](https://github.com/brd3v/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=crossHair&theme=radical)](https://github.com/brd3v/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=CALCULATOR-REACT&theme=radical)](https://github.com/brd3v/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=TO-DO-LIST-EXPO-APP-MOBILE-IOS-ANDROID&theme=radical)](https://github.com/brd3v/TO-DO-LIST-EXPO-APP-MOBILE-IOS-ANDROID) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=javascript-projects&theme=radical)](https://github.com/brd3v/javascript-projects) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=crossHair&theme=radical)](https://github.com/brd3v/CrossHair)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=Crud&theme=radical)](https://github.com/brd3v/Crud) 
 
 
 
