@@ -36,10 +36,5 @@ Hello my name is Bruno and I'm a Software Developer, I'm a programmer and my hob
 
 
 
-
-   📫 bnsiq2015@gmail.com
-
-<footer>Bruno Siqueira - Full-Stack Web Developer</footer>
-
  
 
