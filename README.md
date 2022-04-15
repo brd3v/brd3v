@@ -1,14 +1,13 @@
 ## Brd3v - Brunão - Bruno
 
-Olá meu no nome é Bruno e sou Desenvolvedor de Software,
-Sou programador e meu hobby é programar. 
-i'm Happy😀
 
-🥸 Pai
+Hello my name is Bruno and I'm a Software Developer, I'm a programmer and my hobby is programming. i'm happy😀
+
+🥸 Dad
 🥷🏻 Ninja
 🕹️ ProPlayer
-🖥️ Desenvolvedor Web
-📱 Desenvolvedor Mobile
+🖥️ Web Developer
+📱 Mobile Developer
 
 
  
