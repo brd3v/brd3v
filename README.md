@@ -26,7 +26,7 @@ Hello my name is Bruno and I'm a Software Developer, I'm a programmer and my hob
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=TO-DO-LIST-EXPO-APP-MOBILE-IOS-ANDROID&theme=radical)](https://github.com/brd3v/TO-DO-LIST-EXPO-APP-MOBILE-IOS-ANDROID) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=javascript-projects&theme=radical)](https://github.com/brd3v/javascript-projects) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=LocalMapss&theme=radical)](https://github.com/brd3v/LocalMaps/) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=crossHair&theme=radical)](https://github.com/brd3v/CrossHair)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brd3v&repo=Crud&theme=radical)](https://github.com/brd3v/Crud) 
 
