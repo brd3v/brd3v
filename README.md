@@ -17,9 +17,8 @@
   <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' align='center' /> 
 
 </div>
-Apaixonado por Programção.
 
-[![Brdev stats](https://github-readme-stats.vercel.app/api/wakatime?username=brd3v)](https://github.com/brd3v/github-readme-stats)<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brd3v&size_weight=0.5&count_weight=0.5)
 **brd3v/brd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
