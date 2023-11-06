@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Bruno Pedro👋
-[![Portifolio](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portifolio-brd3v.vercel.app/)
+[![Portifolio](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://brd3vportifolio.com/)](https://portifolio-brd3v.vercel.app/)
 <!--
 **brd3v/brd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
